@@ -35,3 +35,7 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina local:
 ```bash
 git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
 cd TU_REPOSITORIO
+
+### 2. También puedes ejecutarlo directamente del navegador en el siguiente enlace:
+
+https://5n3pxkeemn3wuu4jnjqskq.streamlit.app/
